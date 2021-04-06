@@ -1,19 +1,12 @@
 /* ============================================= */
 /*              Base styles                      */
 /* ============================================= */
-/* line 5, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_base.scss */
-* {
-  font-family: 'Lato', sans-serif;
-  color: #777;
-  box-sizing: border-box;
-}
-
-/* line 11, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_base.scss */
+/* line 4, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_base.scss */
 p {
   line-height: 1.45em;
 }
 
-/* line 15, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_base.scss */
+/* line 8, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_base.scss */
 a {
   text-decoration: none;
 }
@@ -395,24 +388,31 @@ template {
 /*              Typography                       */
 /* ============================================= */
 /* line 5, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_typography.scss */
+* {
+  font-family: 'Lato', sans-serif;
+  color: #777;
+  box-sizing: border-box;
+}
+
+/* line 11, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_typography.scss */
 .headline-primary {
   color: #58e1c1;
   margin-left: 10px;
 }
 
-/* line 10, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_typography.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_typography.scss */
 .headline-secondary {
   font-weight: 300;
   color: #777;
 }
 
-/* line 15, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_typography.scss */
+/* line 21, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_typography.scss */
 .link {
   color: #51ddfc;
   font-weight: 700;
 }
 
-/* line 20, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_typography.scss */
+/* line 26, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/base/_typography.scss */
 .blockquote {
   font-size: 1.5em;
   font-weight: 300;
