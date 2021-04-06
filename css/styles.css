@@ -1,0 +1,106 @@
+/* ============================================= */
+/*              Media Queries                    */
+/* ============================================= */
+@media (min-width: 768px) {
+  /* line 5, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .container {
+    max-width: 1400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /* line 12, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /* line 18, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .row {
+    flex-direction: row;
+  }
+  /* line 22, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  [class^=col] {
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    align-items: center;
+  }
+  /* line 29, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  [class^=col] + [class^=col] {
+    margin-left: 10px;
+  }
+  /* line 33, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-1 {
+    flex-basis: 8.33%;
+  }
+  /* line 37, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-2 {
+    flex-basis: 16.67%;
+  }
+  /* line 41, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-3 {
+    flex-basis: 25.00%;
+  }
+  /* line 45, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-4 {
+    flex-basis: 33.33%;
+  }
+  /* line 49, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-5 {
+    flex-basis: 41.67%;
+  }
+  /* line 53, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-6 {
+    flex-basis: 50.00%;
+  }
+  /* line 57, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-7 {
+    flex-basis: 58.33%;
+  }
+  /* line 61, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-8 {
+    flex-basis: 66.67%;
+  }
+  /* line 65, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-9 {
+    flex-basis: 75.00%;
+  }
+  /* line 69, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-10 {
+    flex-basis: 83.33%;
+  }
+  /* line 73, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-11 {
+    flex-basis: 91.67%;
+  }
+  /* line 77, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .col-12 {
+    flex-basis: 100%;
+  }
+  /* line 81, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .nav {
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  /* line 87, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .nav-link {
+    flex-basis: 100px;
+  }
+  /* line 91, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .btn {
+    padding: 10px 30px;
+  }
+  /* line 95, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .btn + .btn {
+    margin-left: 10px;
+  }
+  /* line 99, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/TREEHOUSE/COURSE_FILES/4 UNIT 4/FINAL PROJECT 4 FRESH FILES/style_guide_v7/scss/styles.scss */
+  .logo {
+    margin-left: initial;
+    margin-right: initial;
+  }
+}
+
+/*# sourceMappingURL=styles.css.map */
