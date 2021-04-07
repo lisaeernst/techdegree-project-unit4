@@ -26,4 +26,7 @@
 	.col {
 		@include flex-cols($flex-columns);
 	}
+	.nav-link {
+		flex-basis: 100px;
+	}
 }

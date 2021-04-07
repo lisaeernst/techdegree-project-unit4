@@ -514,8 +514,8 @@ a {
   }
 }
 
-/* line 18, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_navigation.scss */
-.nav-link {
+/* line 17, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_navigation.scss */
+.nav a {
   text-align: center;
   border-radius: 5px;
   padding: 10px 0;
@@ -524,19 +524,28 @@ a {
   transition: background-color .2s ease-in-out, color .2s ease-in-out;
 }
 
-@media (min-width: 768px) {
-  /* line 18, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_navigation.scss */
-  .nav-link {
-    flex-basis: 100px;
-  }
-}
-
-/* line 31, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_navigation.scss */
-.nav-link:hover {
+/* line 25, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_navigation.scss */
+.nav a:hover {
   color: #fff;
   background-color: #58e1c1;
 }
 
+/* .nav-link {
+	text-align: center;
+	border-radius: 5px;
+	padding: 10px 0;
+	display: block;
+	width: 100%;
+	transition: background-color .2s ease-in-out, color .2s ease-in-out;
+
+	@media (min-width: 768px) {
+		flex-basis: 100px;
+	}
+} */
+/* .nav-link:hover {
+	color: $white;
+	background-color: $color-primary;
+} */
 /* ============================================= */
 /*              Images                           */
 /* ============================================= */
@@ -759,6 +768,10 @@ a {
   /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
   .col-12 {
     flex-basis: 100%;
+  }
+  /* line 29, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
+  .nav-link {
+    flex-basis: 100px;
   }
 }
 
