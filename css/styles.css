@@ -550,7 +550,7 @@ a {
   max-height: 100%;
 }
 
-/* line 14, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_images.scss */
+/* line 11, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_images.scss */
 .img-frame {
   display: block;
   margin-left: auto;
@@ -561,7 +561,7 @@ a {
   border: 1px solid #ccc;
 }
 
-/* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_images.scss */
+/* line 18, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_images.scss */
 .img-logo {
   display: block;
   margin-left: auto;
@@ -619,67 +619,67 @@ a {
   }
 }
 
-/* line 41, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-1 {
   background-color: #927bc1;
 }
 
-/* line 45, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-2 {
   background-color: #fd7856;
 }
 
-/* line 49, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-3 {
   background-color: #deb2ee;
 }
 
-/* line 53, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-4 {
   background-color: #7ee6fd;
 }
 
-/* line 57, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-5 {
   background-color: #88d9a0;
 }
 
-/* line 61, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-6 {
   background-color: #4da2bb;
 }
 
-/* line 65, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-7 {
   background-color: #ec9fa3;
 }
 
-/* line 69, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-8 {
   background-color: #fd9f85;
 }
 
-/* line 73, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-9 {
   background-color: #e4757a;
 }
 
-/* line 77, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-10 {
   background-color: #63cc82;
 }
 
-/* line 81, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-11 {
   background-color: #51ddfc;
 }
 
-/* line 85, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 16, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
 .theme.col-12 {
   background-color: #80e8d1;
 }
 
-/* line 89, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
+/* line 44, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_grid.scss */
 .card {
   flex-basis: 100%;
 }
@@ -688,98 +688,77 @@ a {
 /*              Media Queries                    */
 /* ============================================= */
 @media (min-width: 768px) {
-  /* .container {
-		max-width: 1400px;
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
-	} */
+  /* line 5, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
+  .logo {
+    margin-left: initial;
+    margin-right: initial;
+  }
+  /* line 9, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
+  [class^=col] + [class^=col] {
+    margin-left: 10px;
+  }
   /* line 12, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
   .centered {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
-  /* .row {
-		flex-direction: row;
-	} */
-  /* [class^=col] {
-		display: flex;
-		justify-content: center;
-		margin-top: 0;
-		align-items: center;
-	} */
-  /* line 29, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  [class^=col] + [class^=col] {
-    margin-left: 10px;
-  }
-  /* line 33, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-1 {
-    flex-basis: 8.33%;
-  }
-  /* line 37, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-2 {
-    flex-basis: 16.67%;
-  }
-  /* line 41, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-3 {
-    flex-basis: 25.00%;
-  }
-  /* line 45, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-4 {
-    flex-basis: 33.33%;
-  }
-  /* line 49, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-5 {
-    flex-basis: 41.67%;
-  }
-  /* line 53, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-6 {
-    flex-basis: 50.00%;
-  }
-  /* line 57, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-7 {
-    flex-basis: 58.33%;
-  }
-  /* line 61, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-8 {
-    flex-basis: 66.67%;
-  }
-  /* line 65, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-9 {
-    flex-basis: 75.00%;
-  }
-  /* line 69, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-10 {
-    flex-basis: 83.33%;
-  }
-  /* line 73, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-11 {
-    flex-basis: 91.67%;
-  }
-  /* line 77, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
-  .col-12 {
-    flex-basis: 100%;
-  }
-  /* .nav {
-		flex-direction: row;
-		justify-content: flex-end;
-		align-items: center;
-	} */
-  /* .nav-link {
-		flex-basis: 100px;
-	} */
-  /* .btn {
-		padding: 10px 30px;
-	} */
-  /* line 95, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
+  /* line 17, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
   .btn + .btn {
     margin-left: 10px;
   }
-  /* line 99, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
+  /* line 21, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/components/_media-queries.scss */
   .logo {
     margin-left: initial;
     margin-right: initial;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-1 {
+    flex-basis: 8.33%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-2 {
+    flex-basis: 16.67%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-3 {
+    flex-basis: 25%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-4 {
+    flex-basis: 33.33%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-5 {
+    flex-basis: 41.67%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-6 {
+    flex-basis: 50%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-7 {
+    flex-basis: 58.33%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-8 {
+    flex-basis: 66.67%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-9 {
+    flex-basis: 75%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-10 {
+    flex-basis: 83.33%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-11 {
+    flex-basis: 91.67%;
+  }
+  /* line 24, ../../../../../Volumes/WEBDEV_SCHOOL_LEXAR/GitHub_Code/techdegree-project-unit4/style_guide_v7/techdegree-project-unit4/scss/utilities/_mixins.scss */
+  .col-12 {
+    flex-basis: 100%;
   }
 }
 
