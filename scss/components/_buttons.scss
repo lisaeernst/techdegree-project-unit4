@@ -10,28 +10,52 @@
 	padding: 10px 0;
 	text-transform: uppercase;
 	border-radius: 5px;
+	transition: 0.3s ease-out;
+
+	&.default {
+		background-color: $color-secondary;
+		&:hover {
+			background-color: lighten($color-secondary, 15%);
+		}
+	}
+
+	&.error {
+		background-color: $color-error;
+		&:hover {
+			background-color: lighten($color-error, 15%);
+		}
+	}
+
+	&.info {
+		background-color: $color-info;
+		&:hover {
+			background-color: lighten($color-info, 15%);
+		}
+	}
+
+	&.success {
+		background-color: $color-success;
+		&:hover {
+			background-color: lighten($color-success, 15%);
+		}
+	}
+
+	&.warning {
+		background-color: $color-warning;
+		&:hover {
+			background-color: lighten($color-warning, 15%);
+		}
+	}
 
 	@media #{$break-medium} {
 		padding: 10px 30px;
 	}
-}
-
-.default {
-	background-color: $color-secondary;
-}
-
-.error {
-	background-color: $color-error;
-}
-
-.info {
-	background-color: $color-info;
-}
-
-.success {
-	background-color: $color-success;
-}
-
-.warning {
-	background-color: $color-warning;
+	&:hover {
+		transition: 0.3s ease-in;
+		transition-duration: 0.5s;
+		border-radius: 0px 15px 15px 0;
+		cursor: pointer;
+		color: $color-text;
+		background-color: lighten($color-secondary, 15%);
+	}
 }
