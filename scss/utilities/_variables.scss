@@ -7,6 +7,7 @@ $white: #fff;
 
 $color-primary: #58e1c1; // main light sea green color used on the site
 $color-secondary: #51ddfc; // a links and .default background color bright blue
+$color-border: #ccc;
 
 // Fonts & Headings
 $color-text: #777; // slate grey for text and headings
@@ -16,3 +17,6 @@ $color-error: #e4757a;
 $color-info: #927bc1;
 $color-success: #63cc82;
 $color-warning: #fd7856;
+
+// Breakpoint Media Query
+$break-medium: '(max-width: 768px)';

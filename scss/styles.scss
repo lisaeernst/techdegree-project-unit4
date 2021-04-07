@@ -4,17 +4,12 @@
 
 // Utilities
 
-@import 'utilities/variables', 'utilities/mixins';
+@import 'utilities/index';
 
 // Base Styles
 
-@import 'base/base', 'base/normalize', 'base/typography';
+@import 'base/index';
 
 // Component Styles
 
-@import 'component/navigation',
-	'component/grid',
-	'component/button',
-	'component/form',
-	'component/images',
-	'component/media-queries';
+@import 'components/index';
