@@ -2,12 +2,12 @@
 /*              Media Queries                    */
 /* ============================================= */
 @media (min-width: 768px) {
-	.container {
+	/* .container {
 		max-width: 1400px;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
-	}
+	} */
 
 	.centered {
 		display: block;
@@ -15,16 +15,16 @@
 		margin-right: auto;
 	}
 
-	.row {
+	/* .row {
 		flex-direction: row;
-	}
+	} */
 
-	[class^=col] {
+	/* [class^=col] {
 		display: flex;
 		justify-content: center;
 		margin-top: 0;
 		align-items: center;
-	}
+	} */
 
 	[class^=col] + [class^=col] {
 		margin-left: 10px;
